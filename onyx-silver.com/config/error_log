@@ -1,8 +1,0 @@
-[31-May-2024 23:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/institut/onyx-silver.com/config/database.php:16
-Stack trace:
-#0 {main}
-  thrown in /home/institut/onyx-silver.com/config/database.php on line 16
-[31-May-2024 23:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/institut/onyx-silver.com/config/database.php:16
-Stack trace:
-#0 {main}
-  thrown in /home/institut/onyx-silver.com/config/database.php on line 16
