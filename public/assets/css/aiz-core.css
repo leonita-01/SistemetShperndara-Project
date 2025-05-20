@@ -1,4 +1,5 @@
 
+
 :root {
     --blue: #007bff;
     --hov-blue: #1f6dc2;
@@ -60,6 +61,8 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
         "Liberation Mono", "Courier New", monospace;
 }
+
+
 
 .tagify {
     --tags-border-color: #dfdfe6;
