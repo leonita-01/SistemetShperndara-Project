@@ -8,7 +8,7 @@ use App\Traits\PreventDemoModeChanges;
 
 class ProductCategory extends Model
 {
-    use HasFactory,PreventDemoModeChanges;
+    use HasFactory, PreventDemoModeChanges;
 
     public function product()
     {
@@ -20,3 +20,4 @@ class ProductCategory extends Model
         return $this->belongsTo(Category::class);
     }
 }
+//Test
